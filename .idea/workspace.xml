@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaaef8fe-167e-4f2c-8fb6-082b25cb8df1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/eloquentJsExercises.js" beforeDir="false" afterPath="$PROJECT_DIR$/eloquentJsExercises.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eloquentJsNotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/eloquentJsNotes.js" afterDir="false" />
-    </list>
+    <list default="true" id="aaaef8fe-167e-4f2c-8fb6-082b25cb8df1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="eloquentJsNotes.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="eloquentJsNotes.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eloquentJsNotes.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
               <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -45,6 +51,7 @@
       <list>
         <option value="$PROJECT_DIR$/eloquentJsNotes.js" />
         <option value="$PROJECT_DIR$/eloquentJsExercises.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -112,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536182998796</updated>
-      <workItem from="1536183000078" duration="5948000" />
+      <workItem from="1536183000078" duration="6001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5948000" />
+    <option name="totallyTimeSpent" value="6001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="607" y="44" width="826" height="825" extended-state="0" />
@@ -160,6 +167,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
