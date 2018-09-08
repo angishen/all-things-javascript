@@ -376,7 +376,7 @@ function countBy(items, groupName) {
     let name = groupName(item);
     let known = counts.findIndex(c => c.name == name);
     if (known === -1) {
-      counts.push({name, count: 1});
+      counts.push({ name, count: 1 });
     } else {
       counts[known].count++;
     }
@@ -394,3 +394,4 @@ function dominantDirection(text) {
 
   return counted.reduce((a, b) => (a.count > b.count ? a : b)).name;
 }
+
